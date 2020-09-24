@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    
+  }
+  * + * {
+    margin-top: 10px;
+  }
+  h1 {
+    text-align: center;
+    padding: 1em;
+  }
+  header {
+    margin: 1em;
+  }
+  header a {
+    padding: .5em;
+    color: #000;
+    border-right: 1px ridge black;
+    border-left: 1px ridge black;
+    border-top: 1px ridge black;
+  }
+    header a:hover {
+      background-color: mediumspringgreen;
+    }
+  
+  .active {
+    background-color: lightsteelblue;
+  }
+  .barcode_scan {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .chem_barcode,
+  .Cal_barcode {
+  padding-left: 1.5em;
+  margin-top: 1em;
+}
+.barcodeNumber,
+.barcodeNumberIM,
+.barcodeNumberCal,
+.barcodeNumberOther 
+{
+  width: 40vw;
+}
+#other-supplies {
+  padding: 0.5em;
+}
+#lable {
+  font-size: 1.5rem;
+}

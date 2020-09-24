@@ -1,0 +1,1262 @@
+[
+  {
+    "shName": "Acet",
+    "refChem": 11097522,
+    "name": "Acetaminophen",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "AlbP",
+    "refChem": 11097530,
+    "name": "Albumin",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Alp_2c",
+    "refChem": 11097600,
+    "name": "Alk Phos",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "ALT",
+    "refChem": 11097605,
+    "name": "Alt",
+    "type": "CH Reagent",
+    "flexPerBox": 3
+  },
+  {
+    "shName": "Amm",
+    "refChem": 11097529,
+    "name": "Ammonia",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Amp",
+    "refChem": 11097506,
+    "name": "Amphetamines",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Amylas",
+    "refChem": 11097603,
+    "name": "Amylase",
+    "type": "CH Reagent",
+    "flexPerBox": 3
+  },
+  {
+    "shName": "ASO_2",
+    "refChem": 11097634,
+    "name": "A Step-O",
+    "type": "CH Reagent",
+    "flexPerBox": 3
+  },
+  {
+    "shName": "AST",
+    "refChem": 11097607,
+    "name": "Ast",
+    "type": "CH Reagent",
+    "flexPerBox": 3
+  },
+  {
+    "shName": "Brb",
+    "refChem": 11097507,
+    "name": "Barbiturates",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Bnz",
+    "refChem": 11097505,
+    "name": "Benzodiazepine",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "ThCG",
+    "refChem": 10995690,
+    "name": "Beta-HcG",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "UN_c",
+    "refChem": 11097593,
+    "name": "BUN",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "CA_2",
+    "refChem": 11097644,
+    "name": "Calcium",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "CEA",
+    "refChem": 10995523,
+    "name": "CEA",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "Chol_2",
+    "refChem": 11097609,
+    "name": "Cholesterol",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "CK_L",
+    "refChem": 11097640,
+    "name": "CK Total",
+    "type": "CH Reagent",
+    "flexPerBox": 3
+  },
+  {
+    "shName": "CO2_C",
+    "refChem": 11097521,
+    "name": "Co2",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Coc",
+    "refChem": 11097504,
+    "name": "Cocaine",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Carb",
+    "refChem": 11097515,
+    "name": "Carbamazepine",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Crea_2",
+    "refChem": 11097596,
+    "name": "Creatinine",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Crp_2",
+    "refChem": 11097631,
+    "name": "CRP",
+    "type": "CH Reagent",
+    "flexPerBox": 2
+  },
+  {
+    "shName": "Tropi",
+    "refChem": 10995697,
+    "name": "Troponin I",
+    "type": "IM Reagent",
+    "flexPerBox": 5
+  },
+  {
+    "shName": "Dbil_2",
+    "refChem": 11097532,
+    "name": "Direct Bilirubin",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Dig",
+    "refChem": 10995558,
+    "name": "Digoxin",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "ETOH",
+    "refChem": 11097501,
+    "name": "Ethanol",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "FER",
+    "refChem": 10995569,
+    "name": "Ferritin",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "FOL",
+    "refChem": 10995572,
+    "name": "Folate",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "FT3",
+    "refChem": 10995584,
+    "name": "T3 Free",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "FT4",
+    "refChem": 10995588,
+    "name": "T4 Free",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "Gent",
+    "refChem": 11097516,
+    "name": "Gentamicin",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "GGT",
+    "refChem": 11097597,
+    "name": "GGT",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "GluH_3",
+    "refChem": 11097592,
+    "name": "Glucose",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "A1c_E",
+    "refChem": 11097536,
+    "name": "Hemoglobin A1C",
+    "type": "CH Reagent",
+    "flexPerBox": 2
+  },
+  {
+    "shName": "Hapt",
+    "refChem": 11097643,
+    "name": "Haptaglobin",
+    "type": "IM Reagent",
+    "flexPerBox": 2
+  },
+  {
+    "shName": "HCY",
+    "refChem": 10995606,
+    "name": "Homocysteine",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "D_HDL",
+    "refChem": 11097630,
+    "name": "HDL",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "HsCRP",
+    "refChem": 11097633,
+    "name": "High Sens CRP",
+    "type": "IM Reagent",
+    "flexPerBox": 2
+  },
+  {
+    "shName": "Iron_2",
+    "refChem": 11097601,
+    "name": "Iron",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Lac",
+    "refChem": 11097614,
+    "name": "Lactic Acid",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "LCLP",
+    "refChem": 11097594,
+    "name": "LDH",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "D_LDL",
+    "refChem": 11097632,
+    "name": "LDL",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "LIP",
+    "refChem": 11097606,
+    "name": "Lipase",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "LI",
+    "refChem": 11097535,
+    "name": "Lithium",
+    "type": "CH Reagent",
+    "flexPerBox": 2
+  },
+  {
+    "shName": "UALB_2",
+    "refChem": 11097610,
+    "name": "Micro-Albumin",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Mdn",
+    "refChem": 11097520,
+    "name": "Methadone",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "MG",
+    "refChem": 11097612,
+    "name": "Magnesium",
+    "type": "CH Reagent",
+    "flexPerBox": 3
+  },
+  {
+    "shName": "CKMB",
+    "refChem": 10995530,
+    "name": "CK-MB",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "OP",
+    "refChem": 11097502,
+    "name": "Opiate",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Pcp",
+    "refChem": 11097509,
+    "name": "PCP",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Phno",
+    "refChem": 11097514,
+    "name": "Phenobarbital",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "IP",
+    "refChem": 11097611,
+    "name": "Phos",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "PreAlb",
+    "refChem": 11097617,
+    "name": "Prealbumin",
+    "type": "CH Reagent",
+    "flexPerBox": 2
+  },
+  {
+    "shName": "Phny",
+    "refChem": 11097510,
+    "name": "Phenytoin",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "RF",
+    "refChem": 11097618,
+    "name": "RF",
+    "type": "IM Reagent",
+    "flexPerBox": 2
+  },
+  {
+    "shName": "Sal",
+    "refChem": 11097523,
+    "name": "Salicylate",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "T4",
+    "refChem": 10995685,
+    "name": "T4",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "TBIL_2",
+    "refChem": 11097531,
+    "name": "Total Bilirubin",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Cannab",
+    "refChem": 11097503,
+    "name": "THC",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Theo",
+    "refChem": 11097513,
+    "name": "Theophylline",
+    "type": "IM Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "TIBC",
+    "refChem": 11097525,
+    "name": "TIBC",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "TP",
+    "refChem": 11097604,
+    "name": "Total Protein",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "PSA",
+    "refChem": 10995663,
+    "name": "Total PSA",
+    "type": "CH Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "Trf",
+    "refChem": 11097613,
+    "name": "Transferrin",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Trig",
+    "refChem": 11097591,
+    "name": "Trigliceride",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "TSH3_UL",
+    "refChem": 10995704,
+    "name": "TSH",
+    "type": "CH Reagent",
+    "flexPerBox": 5
+  },
+  {
+    "shName": "TUP",
+    "refChem": 10995711,
+    "name": "T3 Uptake",
+    "type": "CH Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "UPRO",
+    "refChem": 11097524,
+    "name": "Urine Protein",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "UA(URIC)",
+    "refChem": 11097608,
+    "name": "Uric Acid",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "VPA(VALP)",
+    "refChem": 11097512,
+    "name": "Valproic acid",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "Vanc",
+    "refChem": 11097511,
+    "name": "Vancomycian",
+    "type": "CH Reagent",
+    "flexPerBox": 4
+  },
+  {
+    "shName": "VB12",
+    "refChem": 10995714,
+    "name": "Vit B12",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "BNP",
+    "refChem": 10995472,
+    "name": "BNP",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CHIV",
+    "refChem": 10995459,
+    "name": "HIV",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "COR",
+    "refChem": 10995537,
+    "name": "Cortisol",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "eE2",
+    "refChem": 10995562,
+    "name": "Estradiol",
+    "type": "IM Reagent",
+    "flexPerBox": 5
+  },
+  {
+    "shName": "FSH",
+    "refChem": 10995581,
+    "name": "FSH",
+    "type": "IM Reagent",
+    "flexPerBox": 5
+  },
+  {
+    "shName": "aHAVM",
+    "refChem": 10995444,
+    "name": "Hep A IgM Ab",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "aHBcM",
+    "refChem": 10995449,
+    "name": "Hep B Core Igm Ab",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "HbsII",
+    "refChem": 10995604,
+    "name": "Hep B Surface Ag",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "aHBs2",
+    "refChem": 10995453,
+    "name": "Hep B Surface Ab",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "Conf",
+    "refChem": 10995603,
+    "name": "Hep B Surface Conf",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "aHCV",
+    "refChem": 11203473,
+    "name": "Hep C AB",
+    "type": "IM Reagent",
+    "flexPerBox": 2
+  },
+  {
+    "shName": "IRI",
+    "refChem": 10995628,
+    "name": "Insulin",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "LH",
+    "refChem": 10995636,
+    "name": "LH",
+    "type": "IM Reagent",
+    "flexPerBox": 5
+  },
+  {
+    "shName": "PRGE",
+    "refChem": 10995659,
+    "name": "Progesterone",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "PRL",
+    "refChem": 10995655,
+    "name": "Prolactin",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "PTH",
+    "refChem": 10995621,
+    "name": "PTH",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "RUG_G",
+    "refChem": 10995670,
+    "name": "Rubella",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "T3",
+    "refChem": 10995679,
+    "name": "T3",
+    "type": "IM Reagent",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "TSTII",
+    "refChem": 10995707,
+    "name": "Testosterone",
+    "type": "IM Reagent",
+    "flexPerBox": 5
+  },
+  {
+    "shName": "A1c_E Cal",
+    "refChem": 11099338,
+    "name": "A1c_E Cal",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "AlbP Cal",
+    "refChem": 11099310,
+    "name": "AlbP Cal",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "ALP_2 CAL",
+    "refChem": 11099316,
+    "name": "ALP_2 CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "BNP CAL",
+    "refChem": 10995473,
+    "name": "BNP CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CAL 30",
+    "refChem": 10995495,
+    "name": "CAL 30",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CAL A",
+    "refChem": 10995500,
+    "name": "CAL A",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CAL B",
+    "refChem": 10995503,
+    "name": "CAL B",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CAL C",
+    "refChem": 10995506,
+    "name": "CAL C",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CAL D",
+    "refChem": 10995509,
+    "name": "CAL D",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CAL E",
+    "refChem": 10995512,
+    "name": "CAL E",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CAL Q",
+    "refChem": 10995517,
+    "name": "CAL Q",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CHEM CAL",
+    "refChem": 11099411,
+    "name": "CHEM CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CHEM III CAL",
+    "refChem": 11099335,
+    "name": "CHEM III CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CKMB CAL",
+    "refChem": 10995532,
+    "name": "CKMB CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CO2 CAL",
+    "refChem": 11099401,
+    "name": "CO2 CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CRP_2 CAL",
+    "refChem": 11099430,
+    "name": "CRP_2 CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "DRUG CAL",
+    "refChem": 11099336,
+    "name": "DRUG CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "DRUG II CAL",
+    "refChem": 11099405,
+    "name": "DRUG II CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "EMIT/DAU L1 CAL",
+    "refChem": 10445407,
+    "name": "EMIT/DAU L1 CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "EMIT/DAU L2 CAL",
+    "refChem": 10445408,
+    "name": "EMIT/DAU L2 CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "EMIT/DAU L3 CAL",
+    "refChem": 10445409,
+    "name": "EMIT/DAU L3 CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "EMIT/DAU L4 CAL",
+    "refChem": 10445410,
+    "name": "EMIT/DAU L4 CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "EMIT/DAU L5 CAL",
+    "refChem": 10445411,
+    "name": "EMIT/DAU L5 CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "EMIT/DAU LO CAL",
+    "refChem": 10445406,
+    "name": "EMIT/DAU LO CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "ENZ 1 CAL",
+    "refChem": 11099317,
+    "name": "ENZ 1 CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "ENZ 2 CAL",
+    "refChem": 11099318,
+    "name": "ENZ 2 CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "ENZ 3 CAL",
+    "refChem": 11099319,
+    "name": "ENZ 3 CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "HCY CAL",
+    "refChem": 10995498,
+    "name": "HCY CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "HDL/LDL CAL",
+    "refChem": 11099402,
+    "name": "HDL/LDL CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "hsCRP CAL",
+    "refChem": 11099412,
+    "name": "hsCRP CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "INSULIN CAL",
+    "refChem": 10995629,
+    "name": "INSULIN CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "LSP CAL",
+    "refChem": 11099434,
+    "name": "LSP CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "SPCL CHEM CAL",
+    "refChem": 11099438,
+    "name": "SPCL CHEM CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "TDM CAL",
+    "refChem": 11099439,
+    "name": "TDM CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "uAlb_2 Cal",
+    "refChem": 11099435,
+    "name": "uAlb_2 Cal",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "TOX Cal 4",
+    "refChem": 11099440,
+    "name": "TOX Cal 4",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "Upro CAL",
+    "refChem": 11099441,
+    "name": "Upro CAL",
+    "type": "Calibrator",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "A-Lyte",
+    "refChem": 11099315,
+    "name": "A-Lyte",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "ACID/BASE",
+    "refChem": 11098500,
+    "name": "ACID/BASE",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "APW1",
+    "refChem": 10995458,
+    "name": "APW1",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "APW3",
+    "refChem": 10998580,
+    "name": "APW3",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CEA DIL",
+    "refChem": 10995525,
+    "name": "CEA DIL",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CKMB DIL",
+    "refChem": 10995532,
+    "name": "CKMB DIL",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CLEANER CH",
+    "refChem": 11099303,
+    "name": "CLEANER CH",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CLEANER IM",
+    "refChem": 11098502,
+    "name": "CLEANER IM",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CH CONDITIONER",
+    "refChem": 11099302,
+    "name": "CH CONDITIONER",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CUVETTES",
+    "refChem": 10309546,
+    "name": "CUVETTES",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "DILUENT CH",
+    "refChem": 11099300,
+    "name": "DILUENT CH",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "DILUENT IMT",
+    "refChem": 11099305,
+    "name": "DILUENT IMT",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "DILUTION RING SEG",
+    "refChem": 11099327,
+    "name": "DILUTION RING SEG",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "eE2 DIL",
+    "refChem": 10995563,
+    "name": "eE2 DIL",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "FOL DIL",
+    "refChem": 10995574,
+    "name": "FOL DIL",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "FOL DTT/REL KIT",
+    "refChem": 10995576,
+    "name": "FOL DTT/REL KIT",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "HCY DIL",
+    "refChem": 10995608,
+    "name": "HCY DIL",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "INSULIN DIL",
+    "refChem": 10995630,
+    "name": "INSULIN DIL",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "LABEL THERM/TRANS",
+    "refChem": 10734465,
+    "name": "LABEL THERM/TRANS",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "LAMP COOLENT",
+    "refChem": 11099307,
+    "name": "LAMP COOLENT",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "MULITI-DIL 1",
+    "refChem": 10995637,
+    "name": "MULITI-DIL 1",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "MULTI-DIL 11",
+    "refChem": 10995642,
+    "name": "MULTI-DIL 11",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "MULTI-DIL 13",
+    "refChem": 10995643,
+    "name": "MULTI-DIL 13",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "MULTI-DIL 2",
+    "refChem": 10995644,
+    "name": "MULTI-DIL 2",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "MULTI-DIL 3",
+    "refChem": 10995645,
+    "name": "MULTI-DIL 3",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "MDIL 15",
+    "refChem": 11200798,
+    "name": "MDIL 15",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "PW3 KIT",
+    "refChem": 10995666,
+    "name": "PW3 KIT",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "REACTION RING SEG",
+    "refChem": 11099326,
+    "name": "REACTION RING SEG",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "RGT PROBE CLEAN 1",
+    "refChem": 11099312,
+    "name": "RGT PROBE CLEAN 1",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "RGT PROBE CLEAN 2",
+    "refChem": 11099313,
+    "name": "RGT PROBE CLEAN 2",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "RGT PROBE CLEAN 4",
+    "refChem": 11099309,
+    "name": "RGT PROBE CLEAN 4",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "RIBBON PRINTER",
+    "refChem": 10950537,
+    "name": "RIBBON PRINTER",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "SAMPLE TIPS",
+    "refChem": 10909547,
+    "name": "SAMPLE TIPS",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "STD A",
+    "refChem": 11099304,
+    "name": "STD A",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "STD B+SALT BRIDGE",
+    "refChem": 11099306,
+    "name": "STD B+SALT BRIDGE",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "T3 DIL BOTTLE",
+    "refChem": 10995680,
+    "name": "T3 DIL BOTTLE",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "T3/T4/VB12 ANC RGT",
+    "refChem": 10995682,
+    "name": "T3/T4/VB12 ANC RGT",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "T4 DIL",
+    "refChem": 10995686,
+    "name": "T4 DIL",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "VB12 DIL",
+    "refChem": 10995716,
+    "name": "VB12 DIL",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "VB12 DTT/REL KIT",
+    "refChem": 10995718,
+    "name": "VB12 DTT/REL KIT",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "WASH CH",
+    "refChem": 11099301,
+    "name": "WASH CH",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "WASH 1 IM",
+    "refChem": 11098501,
+    "name": "WASH 1 IM",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "WATER BATH ADDITIVE",
+    "refChem": 11099308,
+    "name": "WATER BATH ADDITIVE",
+    "type": "Consumable",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "aHAVM QC",
+    "refChem": 10995445,
+    "name": "aHAVM QC",
+    "type": "QC",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "aHBcM QC",
+    "refChem": 10995450,
+    "name": "aHBcM QC",
+    "type": "QC",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "aHBs2 QC",
+    "refChem": 10995454,
+    "name": "aHBs2 QC",
+    "type": "QC",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "aHCV QC",
+    "refChem": 10995457,
+    "name": "aHCV QC",
+    "type": "QC",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "CHIV QC",
+    "refChem": 10995528,
+    "name": "CHIV QC",
+    "type": "QC",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "HBsII QC",
+    "refChem": 10995605,
+    "name": "HBsII QC",
+    "type": "QC",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "PTH QC",
+    "refChem": 10995626,
+    "name": "PTH QC",
+    "type": "QC",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "RUB G QC",
+    "refChem": 10995671,
+    "name": "RUB G QC",
+    "type": "QC",
+    "flexPerBox": 1
+  },
+  {
+    "shName": "ThcG Dil",
+    "refChem": 10995691,
+    "name": "ThcG Dil",
+    "type": "Consumable",
+    "flexPerBox": 2
+  }
+ ]

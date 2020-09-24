@@ -1,0 +1,202 @@
+[
+  {
+    "testName": "HDL",
+    "shortName": "D_HCL",
+    "pkgType": "CH Reagent",
+    "expireDate": "10-01-20",
+    "lot": "201087",
+    "flexPerBox": 4,
+    "numOfBoxs": 7,
+    "partNumber": "11097630"
+  },
+  {
+    "testName": "A STEP-O",
+    "shortName": "ASO_2",
+    "pkgType": "CH Reagent",
+    "expireDate": "12-01-20",
+    "lot": "291061",
+    "flexPerBox": 3,
+    "numOfBoxs": 1,
+    "partNumber": "11097634"
+  },
+  {
+    "testName": "ACETAMINOPHEN",
+    "shortName": "Acet",
+    "pkgType": "CH Reagent",
+    "expireDate": "04-06-21",
+    "lot": "100080",
+    "flexPerBox": 4,
+    "numOfBoxs": 1,
+    "partNumber": "11097522"
+  },
+  {
+    "testName": "HEMOGLOBIN A1C",
+    "shortName": "Hem A1c_E",
+    "pkgType": "CH Reagent",
+    "expireDate": "12-09-20",
+    "lot": "100092",
+    "flexPerBox": 2,
+    "numOfBoxs": 11,
+    "partNumber": "11097536"
+  },
+  {
+    "testName": "AMMONIA",
+    "shortName": "Amm",
+    "pkgType": "CH Reagent",
+    "expireDate": "04-13-21",
+    "lot": "100090",
+    "flexPerBox": 4,
+    "numOfBoxs": 1,
+    "partNumber": "11097529"
+  },
+  {
+    "testName": "ALBUMIN",
+    "shortName": "AlbP",
+    "pkgType": "CH Reagent",
+    "expireDate": "03-16-21",
+    "lot": "100054",
+    "flexPerBox": 4,
+    "numOfBoxs": 4,
+    "partNumber": "11097530"
+  },
+  {
+    "testName": "ALK PHOS",
+    "shortName": "Alp_2c",
+    "pkgType": "CH Reagent",
+    "expireDate": "02-01-21",
+    "lot": "201099",
+    "flexPerBox": 4,
+    "numOfBoxs": 4,
+    "partNumber": "11097600"
+  },
+  {
+    "testName": "AST",
+    "shortName": "AST",
+    "pkgType": "CH Reagent",
+    "expireDate": "10-01-20",
+    "lot": "291103",
+    "flexPerBox": 3,
+    "numOfBoxs": 1,
+    "partNumber": "11097607"
+  },
+  {
+    "testName": "AST",
+    "shortName": "AST",
+    "pkgType": "CH Reagent",
+    "expireDate": "03-01-21",
+    "lot": "201119",
+    "flexPerBox": 3,
+    "numOfBoxs": 6,
+    "partNumber": "11097607"
+  },
+  {
+    "testName": "CARBAMAZEPINE",
+    "shortName": "Carb",
+    "pkgType": "CH Reagent",
+    "expireDate": "05-18-21",
+    "lot": "100118",
+    "flexPerBox": 4,
+    "numOfBoxs": 1,
+    "partNumber": "11097515"
+  },
+  {
+    "testName": "CK TOTAL",
+    "shortName": "CK_L",
+    "pkgType": "CH Reagent",
+    "expireDate": "03-01-21",
+    "lot": "201082",
+    "flexPerBox": 3,
+    "numOfBoxs": 1,
+    "partNumber": "11097640"
+  },
+  {
+    "testName": "CK TOTAL",
+    "shortName": "CK_L",
+    "pkgType": "CH Reagent",
+    "expireDate": "04-01-21",
+    "lot": "201121",
+    "flexPerBox": 3,
+    "numOfBoxs": 1,
+    "partNumber": "11097640"
+  },
+  {
+    "testName": "AMYLASE",
+    "shortName": "Amylas",
+    "pkgType": "CH Reagent",
+    "expireDate": "04-01-21",
+    "lot": "201080",
+    "flexPerBox": 3,
+    "numOfBoxs": 1,
+    "partNumber": "11097603"
+  },
+  {
+    "testName": "CHOLESTEROL",
+    "shortName": "Chol_2",
+    "pkgType": "CH Reagent",
+    "expireDate": "10-01-20",
+    "lot": "290953",
+    "flexPerBox": 4,
+    "numOfBoxs": 2,
+    "partNumber": "11097609"
+  },
+  {
+    "testName": "CHOLESTEROL",
+    "shortName": "Chol_2",
+    "pkgType": "CH Reagent",
+    "expireDate": "02-01-21",
+    "lot": "291000",
+    "flexPerBox": 4,
+    "numOfBoxs": 1,
+    "partNumber": "11097609"
+  },
+  {
+    "testName": "CO2",
+    "shortName": "CO2_C",
+    "pkgType": "CH Reagent",
+    "expireDate": "04-06-21",
+    "lot": "100079",
+    "flexPerBox": 4,
+    "numOfBoxs": 2,
+    "partNumber": "11097521"
+  },
+  {
+    "testName": "CO2",
+    "shortName": "CO2_C",
+    "pkgType": "CH Reagent",
+    "expireDate": "07-27-21",
+    "lot": "100165",
+    "flexPerBox": 4,
+    "numOfBoxs": 2,
+    "partNumber": "11097521"
+  },
+  {
+    "testName": "CRP",
+    "shortName": "Crp_2",
+    "pkgType": "CH Reagent",
+    "expireDate": "03-01-21",
+    "lot": "291025",
+    "flexPerBox": 2,
+    "numOfBoxs": 4,
+    "partNumber": "11097631"
+  },
+  {
+    "testName": "DIRECT BILIRUBIN",
+    "shortName": "Dbil_2",
+    "pkgType": "CH Reagent",
+    "expireDate": "02-04-21",
+    "lot": "100035",
+    "flexPerBox": 4,
+    "numOfBoxs": 1,
+    "partNumber": "11097532"
+  },
+  {
+    "testName": "DIRECT BILIRUBIN",
+    "shortName": "Dbil_2",
+    "pkgType": "CH Reagent",
+    "expireDate": "12-03-20",
+    "lot": "190273",
+    "flexPerBox": 4,
+    "numOfBoxs": 1,
+    "partNumber": "11097532"
+  }
+]

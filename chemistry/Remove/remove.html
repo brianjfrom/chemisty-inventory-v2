@@ -1,0 +1,86 @@
+<!-- <!DOCTYPE html> -->
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Remove Tests</title>
+  <link rel="stylesheet" href="./remove.css">
+</head>
+
+<body>
+  <h1>Chemisty Inventory</h1>
+  <header>
+    <a href="../index.html">Add to Inventory</a>
+    <a class="active" href="#">Remove from Inventory</a>
+    <a href="../inventory/inventory.html">Inventory List</a>
+  </header>
+  <div class="barcode_scan">
+    <div class="chem_barcode">
+      <h2>CH Reagents Only</h2>
+      Scan Barcode: <br> <input type="number" class="barcodeNumber"
+        value="0100630414596372102910531721030124011097604422826">
+      <button type="submit" class="bcnSubmit">Submit</button>
+      <div class="barcode__data">
+        <p class="reference_number">Reference Number: <span id="refNum"></span></p>
+        <p class="lot_number">Lot Number: <span id="lotNumber"></span></p>
+        <p class="expire_date">Expire Date: <span id="exDate"></span></p>
+        <p class="test_name">Test Name: <span id="test_name"></span> </p>
+        <p class="flex_per_box">Kits Per Box: <span id="flexPerBox"></span></p>
+        <p class="note"></p>
+      </div>
+    </div>
+    <div class="IM_barcode">
+      <h2>IM Reagents, Calibrators(8 digit num or alpha lot#)</h2>
+      Scan Barcode: <br> <input type="text" class="barcodeNumberIM"
+            value="010063041460039010226832511720113024010995459422840">
+      <button type="submit" class="bcnSubmitIM">Submit</button>
+      <div class="barcode__dataIM">
+        <p class="reference_numberIM">Reference Number: <span id="refNumIM"></span></p>
+        <p class="lot_numberIM">Lot Number: <span id="lotNumberIM"></span></p>
+        <p class="expire_dateIM">Expire Date: <span id="exDateIM"></span></p>
+        <p class="test_nameIM">Test Name: <span id="test_nameIM"></span> </p>
+        <p class="flex_per_boxIM">Kits Per Box: <span id="flexPerBoxIM"></span></p>
+        <p class="noteIM"></p>
+      </div>
+    </div>
+    <div class="Cal_barcode">
+    <h2>Calibrators(6 digit num or alpha lot#)</h2>
+    Scan Barcode: <br> <input type="text" class="barcodeNumberCal"
+          value="010063041460039010226832511720113024010995459422840">
+    <button type="submit" class="bcnSubmitCal">Submit</button>
+    <div class="barcode__dataCal">
+      <p class="reference_numberCal">Reference Number: <span id="refNumCal"></span></p>
+      <p class="lot_numberCal">Lot Number: <span id="lotNumberCal"></span></p>
+      <p class="expire_dateCal">Expire Date: <span id="exDateCal"></span></p>
+      <p class="test_nameCal">Test Name: <span id="test_nameCal"></span> </p>
+      <p class="flex_per_boxCal">Kits Per Box: <span id="flexPerBoxCal"></span></p>
+      <p class="noteCal"></p>
+    </div>
+  </div>
+  <div class="Other_barcode">
+    <h2>Other Chemistry Supplies</h2>
+    <lable id="lable" for="Other Supplies">Choose length of lot number digits:</lable>
+          <select name="Other" id="other-supplies">
+            <option class="drop-down" id="other_five" value="5">Altellica Diluents: 5 Digit Number </option>
+            <option class="drop-down" id="other-nine" value="9">Altellica QC: 9 digit Number</option>
+            <option class="drop-down" id="other_ten" value="10">Altellica Fluids: 10 Digit Number</option>
+          </select>
+          <br>
+    Scan Barcode: <br> <input type="number" class="barcodeNumberOther"
+          value="010063041460039010226832511720113024010995459422840">
+    <button type="submit" class="bcnSubmitOther">Submit</button>
+    <div class="barcode__dataOther">
+      <p class="reference_numberOther">Reference Number: <span id="refNumOther"></span></p>
+      <p class="lot_numberOther">Lot Number: <span id="lotNumberOther"></span></p>
+      <p class="expire_dateOther">Expire Date: <span id="exDateOther"></span></p>
+      <p class="test_nameOther">Test Name: <span id="test_nameOther"></span> </p>
+      <p class="flex_per_boxOther">Kits Per Box: <span id="flexPerBoxOther"></span></p>
+      <p class="noteOther"></p>
+    </div>
+  </div>
+  </div>
+  <script src="./remove.js"></script>
+</body>
+
+</html>
