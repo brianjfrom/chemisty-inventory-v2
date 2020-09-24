@@ -12,11 +12,11 @@ let express = require('express');
 // const { json } = require('express');
 let app = express();
 
-let server = app.listen(3000, listen)
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+    console.log(`Our app is running on port ${ PORT }`);
+});
 
-function listen() {
-    console.log('listening at 3000')
-}
 
 app.use(express.static('chemistry'));
 
