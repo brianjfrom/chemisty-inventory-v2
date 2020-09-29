@@ -5,6 +5,8 @@
   <meta charset="UTF-8">
   <!--   <meta name="viewport" content="width=device-width, initial-scale="> -->
   <title>Chemisty Inventory</title>
+  <script src="https://www.gstatic.com/firebasejs/7.21.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.21.1/firebase-analytics.js"></script>
   <link rel="stylesheet" href="./style.css">
 </head>
 
@@ -34,7 +36,7 @@
     </div>
     <div class="Im_barcode">
       <h2>IM Reagents, Calibrators(8 digit lot#)</h2>
-              Scan Barcode: <br> <input type="text" class="barcodeNumberIM" value="010063041459882610929852331720100924010995558422840">
+              Scan Barcode: <br> <input type="text" class="barcodeNumberIM" value="">
       <button type="submit" class="bcnImSubmit">Submit</button>
       <div class="IM_barcode__data">
         <p class="reference_number">Reference Number: <span id="refNumIm"></span></p>
@@ -51,7 +53,7 @@
       </div>
       <div class="cal_barcode">
         <h2>Calibrators(6 digit num or alpha/num lot#)</h2>
-                    Scan Barcode: <br> <input type="text" class="barcodeNumberCal" value="0100630414597379109LD0421720120124011099335422840">
+                    Scan Barcode: <br> <input type="text" class="barcodeNumberCal" value="">
         <button type="submit" class="bcnSubmitCal">Submit</button>
         <div class="cal_barcode__data">
           <p class="reference_number">Reference Number: <span id="refNumCal"></span></p>
@@ -76,7 +78,7 @@
           </select>
           <br>
           <br>
-          Scan Barcode: <input type="number" class="barcodeNumberOther" value="01006304145957401000001294571721040624011099304422840">
+          Scan Barcode: <input type="number" class="barcodeNumberOther" value="">
           <button type="submit" class="bcnSubmitOther">Submit</button>
           <div class="barcode__data-other">
             <p class="reference_number-other">Reference Number: <span id="refNumOther"></span></p>

@@ -4,6 +4,9 @@ let reagents = JSON.parse(data);
 let inventorySheet = fs.readFileSync('inventory.json');
 let inventory = JSON.parse(inventorySheet);
 
+var firebase = require("firebase");
+var database;
+
 // console.log(inventory);
 
 console.log('starting server');
@@ -21,6 +24,22 @@ app.listen(PORT, () => {
 app.use(express.static('chemistry'));
 
 app.post('/add/:TestName.:shortName.:expireDate.:lot.:flexPerBox.:numOfBoxs.:pkgType.:partNumber', addArray);
+
+var firebaseConfig = {
+    apiKey: "AIzaSyDCOmCtFLSlgOCzJ6YvKa3-GdxlSD4oBYI",
+    authDomain: "chem-inventory-987e0.firebaseapp.com",
+    databaseURL: "https://chem-inventory-987e0.firebaseio.com",
+    projectId: "chem-inventory-987e0",
+    storageBucket: "chem-inventory-987e0.appspot.com",
+    messagingSenderId: "940217177776",
+    appId: "1:940217177776:web:8f6a4c053a3ee80c950d75",
+    measurementId: "G-MLVVPGQ95L"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  var database = firebase.database();
+//   firebase.analytics();
+
 
 async function addArray(req, res) {
     let data = req.params;

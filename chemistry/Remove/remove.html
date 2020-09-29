@@ -5,6 +5,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Remove Tests</title>
+  <script src="https://www.gstatic.com/firebasejs/7.21.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.21.1/firebase-analytics.js"></script>
   <link rel="stylesheet" href="./remove.css">
 </head>
 
@@ -19,7 +21,7 @@
     <div class="chem_barcode">
       <h2>CH Reagents Only</h2>
       Scan Barcode: <br> <input type="number" class="barcodeNumber"
-        value="0100630414596372102910531721030124011097604422826">
+        value="">
       <button type="submit" class="bcnSubmit">Submit</button>
       <div class="barcode__data">
         <p class="reference_number">Reference Number: <span id="refNum"></span></p>
@@ -33,7 +35,7 @@
     <div class="IM_barcode">
       <h2>IM Reagents, Calibrators(8 digit num or alpha lot#)</h2>
       Scan Barcode: <br> <input type="text" class="barcodeNumberIM"
-            value="010063041460039010226832511720113024010995459422840">
+            value="">
       <button type="submit" class="bcnSubmitIM">Submit</button>
       <div class="barcode__dataIM">
         <p class="reference_numberIM">Reference Number: <span id="refNumIM"></span></p>
@@ -47,7 +49,7 @@
     <div class="Cal_barcode">
     <h2>Calibrators(6 digit num or alpha lot#)</h2>
     Scan Barcode: <br> <input type="text" class="barcodeNumberCal"
-          value="010063041460039010226832511720113024010995459422840">
+          value="">
     <button type="submit" class="bcnSubmitCal">Submit</button>
     <div class="barcode__dataCal">
       <p class="reference_numberCal">Reference Number: <span id="refNumCal"></span></p>
@@ -68,7 +70,7 @@
           </select>
           <br>
     Scan Barcode: <br> <input type="number" class="barcodeNumberOther"
-          value="010063041460039010226832511720113024010995459422840">
+          value="">
     <button type="submit" class="bcnSubmitOther">Submit</button>
     <div class="barcode__dataOther">
       <p class="reference_numberOther">Reference Number: <span id="refNumOther"></span></p>
